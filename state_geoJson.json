@@ -1,0 +1,68 @@
+{"type":"FeatureCollection",
+    "features":[
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Alabama",
+                "shape":"Marker",
+                "name":"Unnamed Layer",
+                "category":"default"},
+            "geometry":{
+                "type":"LineString",
+                "coordinates":[-120.375089,47.189712]},"id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 0,
+                "place": "Alabama",
+                "shape":"Marker",
+                "name":"Unnamed Layer",
+                "category":"default"},
+            "geometry":{
+                "type":"LineString",
+                "coordinates":[-120.375089,47.189712]},"id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 0,
+                "place": "Alabama",
+                "shape":"Marker",
+                "name":"Unnamed Layer",
+                "category":"default"},
+            "geometry":{
+                "type":"LineString",
+                "coordinates":[-120.375089,47.189712]},"id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 0,
+                "place": "Alabama",
+                "shape":"Marker",
+                "name":"Unnamed Layer",
+                "category":"default"},
+            "geometry":{
+                "type":"LineString",
+                "coordinates":[-120.375089,47.189712]},"id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 0,
+                "place": "Alabama",
+                "shape":"Marker",
+                "name":"Unnamed Layer",
+                "category":"default"},
+            "geometry":{
+                "type":"LineString",
+                "coordinates":[-120.375089,47.189712]},"id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        }
+
+            ]}

@@ -1,0 +1,947 @@
+[
+  {
+    "country": "Bermuda",
+    "costOfLivingIndex": "138.2200",
+    "rentIndex": "87.6200",
+    "restaurantsIndex": "150.4000",
+    "localPurchasingPowerIndex": "79.8700"
+  },
+  {
+    "country": "Hong Kong",
+    "costOfLivingIndex": "79.2100",
+    "rentIndex": "79.7200",
+    "restaurantsIndex": "55.6200",
+    "localPurchasingPowerIndex": "66.7900"
+  },
+  {
+    "country": "Cayman Islands",
+    "costOfLivingIndex": "141.6400",
+    "rentIndex": "74.4000",
+    "restaurantsIndex": "105.0300",
+    "localPurchasingPowerIndex": "137.8800"
+  },
+  {
+    "country": "Singapore",
+    "costOfLivingIndex": "80.2300",
+    "rentIndex": "61.9900",
+    "restaurantsIndex": "55.4100",
+    "localPurchasingPowerIndex": "88.8400"
+  },
+  {
+    "country": "Luxembourg",
+    "costOfLivingIndex": "84.6800",
+    "rentIndex": "55.4400",
+    "restaurantsIndex": "92.9100",
+    "localPurchasingPowerIndex": "107.8900"
+  },
+  {
+    "country": "Qatar",
+    "costOfLivingIndex": "62.2200",
+    "rentIndex": "51.1800",
+    "restaurantsIndex": "63.9300",
+    "localPurchasingPowerIndex": "119.3300"
+  },
+  {
+    "country": "Switzerland",
+    "costOfLivingIndex": "122.6700",
+    "rentIndex": "50.2200",
+    "restaurantsIndex": "124.0400",
+    "localPurchasingPowerIndex": "127.7600"
+  },
+  {
+    "country": "United States Virgin Islands",
+    "costOfLivingIndex": "97.2300",
+    "rentIndex": "48.2400",
+    "restaurantsIndex": "90.7400",
+    "localPurchasingPowerIndex": "54.5800"
+  },
+  {
+    "country": "Iceland",
+    "costOfLivingIndex": "97.2200",
+    "rentIndex": "45.0800",
+    "restaurantsIndex": "111.4600",
+    "localPurchasingPowerIndex": "92.0300"
+  },
+  {
+    "country": "United Arab Emirates",
+    "costOfLivingIndex": "63.5800",
+    "rentIndex": "45.0400",
+    "restaurantsIndex": "62.1700",
+    "localPurchasingPowerIndex": "100.5300"
+  },
+  {
+    "country": "Ireland",
+    "costOfLivingIndex": "76.3300",
+    "rentIndex": "43.9400",
+    "restaurantsIndex": "84.0800",
+    "localPurchasingPowerIndex": "90.8000"
+  },
+  {
+    "country": "United States",
+    "costOfLivingIndex": "70.9500",
+    "rentIndex": "40.5000",
+    "restaurantsIndex": "70.7600",
+    "localPurchasingPowerIndex": "119.1000"
+  },
+  {
+    "country": "Norway",
+    "costOfLivingIndex": "104.4900",
+    "rentIndex": "37.2600",
+    "restaurantsIndex": "115.5900",
+    "localPurchasingPowerIndex": 98
+  },
+  {
+    "country": "Bahamas",
+    "costOfLivingIndex": "85.9600",
+    "rentIndex": "35.4000",
+    "restaurantsIndex": "87.2000",
+    "localPurchasingPowerIndex": "56.2100"
+  },
+  {
+    "country": "Australia",
+    "costOfLivingIndex": "73.3900",
+    "rentIndex": "35.3500",
+    "restaurantsIndex": "72.2300",
+    "localPurchasingPowerIndex": "118.0900"
+  },
+  {
+    "country": "Netherlands",
+    "costOfLivingIndex": "75.2200",
+    "rentIndex": "35.2900",
+    "restaurantsIndex": "82.9000",
+    "localPurchasingPowerIndex": "98.0400"
+  },
+  {
+    "country": "Denmark",
+    "costOfLivingIndex": "83.8800",
+    "rentIndex": "33.7300",
+    "restaurantsIndex": "100.6300",
+    "localPurchasingPowerIndex": "110.6900"
+  },
+  {
+    "country": "Kuwait",
+    "costOfLivingIndex": "50.3300",
+    "rentIndex": "32.9800",
+    "restaurantsIndex": "48.0500",
+    "localPurchasingPowerIndex": "98.3300"
+  },
+  {
+    "country": "Seychelles",
+    "costOfLivingIndex": "72.7500",
+    "rentIndex": "32.7900",
+    "restaurantsIndex": "87.3700",
+    "localPurchasingPowerIndex": "21.5200"
+  },
+  {
+    "country": "Israel",
+    "costOfLivingIndex": "79.5400",
+    "rentIndex": "31.4900",
+    "restaurantsIndex": "88.7500",
+    "localPurchasingPowerIndex": "85.9600"
+  },
+  {
+    "country": "New Zealand",
+    "costOfLivingIndex": "73.0100",
+    "rentIndex": "31.4400",
+    "restaurantsIndex": "69.9300",
+    "localPurchasingPowerIndex": "97.5900"
+  },
+  {
+    "country": "Bahrain",
+    "costOfLivingIndex": "58.3600",
+    "rentIndex": "31.2200",
+    "restaurantsIndex": "52.5300",
+    "localPurchasingPowerIndex": "63.8400"
+  },
+  {
+    "country": "Canada",
+    "costOfLivingIndex": "68.1600",
+    "rentIndex": "30.2800",
+    "restaurantsIndex": "63.2500",
+    "localPurchasingPowerIndex": "105.0100"
+  },
+  {
+    "country": "Malta",
+    "costOfLivingIndex": "65.4300",
+    "rentIndex": "30.1400",
+    "restaurantsIndex": "73.5300",
+    "localPurchasingPowerIndex": "55.3400"
+  },
+  {
+    "country": "United Kingdom",
+    "costOfLivingIndex": "65.3300",
+    "rentIndex": "28.6900",
+    "restaurantsIndex": "72.5400",
+    "localPurchasingPowerIndex": "100.4600"
+  },
+  {
+    "country": "Japan",
+    "costOfLivingIndex": "85.5200",
+    "rentIndex": "28.0800",
+    "restaurantsIndex": "50.0500",
+    "localPurchasingPowerIndex": "97.5700"
+  },
+  {
+    "country": "Austria",
+    "costOfLivingIndex": "72.1500",
+    "rentIndex": "27.8400",
+    "restaurantsIndex": "71.8100",
+    "localPurchasingPowerIndex": "89.8800"
+  },
+  {
+    "country": "Germany",
+    "costOfLivingIndex": "66.5700",
+    "rentIndex": "27.0200",
+    "restaurantsIndex": "63.3800",
+    "localPurchasingPowerIndex": "111.9900"
+  },
+  {
+    "country": "Ghana",
+    "costOfLivingIndex": "43.1100",
+    "rentIndex": "26.6100",
+    "restaurantsIndex": "27.8000",
+    "localPurchasingPowerIndex": "20.6900"
+  },
+  {
+    "country": "Finland",
+    "costOfLivingIndex": "72.1800",
+    "rentIndex": "26.3100",
+    "restaurantsIndex": "79.3900",
+    "localPurchasingPowerIndex": "108.7800"
+  },
+  {
+    "country": "Ethiopia",
+    "costOfLivingIndex": "55.5200",
+    "rentIndex": "26.3100",
+    "restaurantsIndex": "20.2800",
+    "localPurchasingPowerIndex": "9.4600"
+  },
+  {
+    "country": "Lebanon",
+    "costOfLivingIndex": "59.7400",
+    "rentIndex": "26.2000",
+    "restaurantsIndex": "58.1300",
+    "localPurchasingPowerIndex": "50.7000"
+  },
+  {
+    "country": "France",
+    "costOfLivingIndex": "74.6200",
+    "rentIndex": "26.1000",
+    "restaurantsIndex": "75.0900",
+    "localPurchasingPowerIndex": "87.7000"
+  },
+  {
+    "country": "Belgium",
+    "costOfLivingIndex": "73.1300",
+    "rentIndex": "26.0500",
+    "restaurantsIndex": "82.5300",
+    "localPurchasingPowerIndex": "93.1700"
+  },
+  {
+    "country": "Sweden",
+    "costOfLivingIndex": "70.1100",
+    "rentIndex": "25.6500",
+    "restaurantsIndex": "72.1400",
+    "localPurchasingPowerIndex": "112.7500"
+  },
+  {
+    "country": "Panama",
+    "costOfLivingIndex": "52.9800",
+    "rentIndex": "24.4200",
+    "restaurantsIndex": "47.4100",
+    "localPurchasingPowerIndex": "38.9600"
+  },
+  {
+    "country": "Brunei",
+    "costOfLivingIndex": "44.3300",
+    "rentIndex": "23.2900",
+    "restaurantsIndex": "35.0800",
+    "localPurchasingPowerIndex": "94.2600"
+  },
+  {
+    "country": "Myanmar",
+    "costOfLivingIndex": "48.0600",
+    "rentIndex": "22.9600",
+    "restaurantsIndex": "22.1900",
+    "localPurchasingPowerIndex": "12.6800"
+  },
+  {
+    "country": "Portugal",
+    "costOfLivingIndex": "50.7700",
+    "rentIndex": "21.7600",
+    "restaurantsIndex": "43.8500",
+    "localPurchasingPowerIndex": "53.6100"
+  },
+  {
+    "country": "Italy",
+    "costOfLivingIndex": "69.0200",
+    "rentIndex": "21.6000",
+    "restaurantsIndex": "74.7200",
+    "localPurchasingPowerIndex": "73.4300"
+  },
+  {
+    "country": "Nigeria",
+    "costOfLivingIndex": "31.7500",
+    "rentIndex": "21.5900",
+    "restaurantsIndex": "20.6600",
+    "localPurchasingPowerIndex": "15.9100"
+  },
+  {
+    "country": "Spain",
+    "costOfLivingIndex": "54.7400",
+    "rentIndex": "21.5300",
+    "restaurantsIndex": "53.7400",
+    "localPurchasingPowerIndex": "79.8100"
+  },
+  {
+    "country": "South Korea",
+    "costOfLivingIndex": "75.1600",
+    "rentIndex": "20.8700",
+    "restaurantsIndex": "43.2700",
+    "localPurchasingPowerIndex": "99.1300"
+  },
+  {
+    "country": "Cyprus",
+    "costOfLivingIndex": "58.3900",
+    "rentIndex": "20.7200",
+    "restaurantsIndex": "63.1400",
+    "localPurchasingPowerIndex": "67.2800"
+  },
+  {
+    "country": "Barbados",
+    "costOfLivingIndex": "80.3200",
+    "rentIndex": 20,
+    "restaurantsIndex": "72.6100",
+    "localPurchasingPowerIndex": "56.9700"
+  },
+  {
+    "country": "Mozambique",
+    "costOfLivingIndex": "44.6500",
+    "rentIndex": "19.9400",
+    "restaurantsIndex": "38.3800",
+    "localPurchasingPowerIndex": "25.4900"
+  },
+  {
+    "country": "Fiji",
+    "costOfLivingIndex": "49.6700",
+    "rentIndex": "19.7900",
+    "restaurantsIndex": "36.7100",
+    "localPurchasingPowerIndex": "33.1300"
+  },
+  {
+    "country": "Oman",
+    "costOfLivingIndex": "48.5500",
+    "rentIndex": "19.4000",
+    "restaurantsIndex": "47.0600",
+    "localPurchasingPowerIndex": "83.0900"
+  },
+  {
+    "country": "Czech Republic",
+    "costOfLivingIndex": "45.7000",
+    "rentIndex": "19.3700",
+    "restaurantsIndex": "33.7800",
+    "localPurchasingPowerIndex": "71.1900"
+  },
+  {
+    "country": "Puerto Rico",
+    "costOfLivingIndex": "66.8100",
+    "rentIndex": "18.4600",
+    "restaurantsIndex": "54.6400",
+    "localPurchasingPowerIndex": "93.0300"
+  },
+  {
+    "country": "South Africa",
+    "costOfLivingIndex": "43.7400",
+    "rentIndex": "17.2400",
+    "restaurantsIndex": "41.7500",
+    "localPurchasingPowerIndex": "81.3000"
+  },
+  {
+    "country": "China",
+    "costOfLivingIndex": "40.5400",
+    "rentIndex": "17.1900",
+    "restaurantsIndex": "29.6800",
+    "localPurchasingPowerIndex": "63.9300"
+  },
+  {
+    "country": "Thailand",
+    "costOfLivingIndex": "49.8600",
+    "rentIndex": "17.1300",
+    "restaurantsIndex": "24.8300",
+    "localPurchasingPowerIndex": "39.8700"
+  },
+  {
+    "country": "Namibia",
+    "costOfLivingIndex": "44.1000",
+    "rentIndex": "16.8700",
+    "restaurantsIndex": "41.1800",
+    "localPurchasingPowerIndex": "60.1600"
+  },
+  {
+    "country": "Trinidad And Tobago",
+    "costOfLivingIndex": "54.1700",
+    "rentIndex": "16.5000",
+    "restaurantsIndex": "48.9000",
+    "localPurchasingPowerIndex": "52.8300"
+  },
+  {
+    "country": "Costa Rica",
+    "costOfLivingIndex": "55.0900",
+    "rentIndex": "16.2300",
+    "restaurantsIndex": "45.7000",
+    "localPurchasingPowerIndex": "46.0200"
+  },
+  {
+    "country": "Slovakia",
+    "costOfLivingIndex": "44.6500",
+    "rentIndex": "15.8600",
+    "restaurantsIndex": "33.9400",
+    "localPurchasingPowerIndex": "61.8300"
+  },
+  {
+    "country": "Slovenia",
+    "costOfLivingIndex": "54.1700",
+    "rentIndex": "15.8100",
+    "restaurantsIndex": "45.5900",
+    "localPurchasingPowerIndex": "68.2400"
+  },
+  {
+    "country": "Estonia",
+    "costOfLivingIndex": "50.9900",
+    "rentIndex": "15.6300",
+    "restaurantsIndex": "53.0600",
+    "localPurchasingPowerIndex": "76.7500"
+  },
+  {
+    "country": "El Salvador",
+    "costOfLivingIndex": "47.6900",
+    "rentIndex": "15.6100",
+    "restaurantsIndex": "36.2900",
+    "localPurchasingPowerIndex": "28.5600"
+  },
+  {
+    "country": "Chile",
+    "costOfLivingIndex": "49.1500",
+    "rentIndex": "15.5400",
+    "restaurantsIndex": "46.8400",
+    "localPurchasingPowerIndex": "51.4300"
+  },
+  {
+    "country": "Uruguay",
+    "costOfLivingIndex": "54.9100",
+    "rentIndex": "15.4600",
+    "restaurantsIndex": "53.6400",
+    "localPurchasingPowerIndex": "39.8200"
+  },
+  {
+    "country": "Taiwan",
+    "costOfLivingIndex": "58.7700",
+    "rentIndex": "15.4500",
+    "restaurantsIndex": "26.9500",
+    "localPurchasingPowerIndex": "74.1600"
+  },
+  {
+    "country": "Poland",
+    "costOfLivingIndex": "39.3800",
+    "rentIndex": "15.2900",
+    "restaurantsIndex": "32.8900",
+    "localPurchasingPowerIndex": "66.0600"
+  },
+  {
+    "country": "Libya",
+    "costOfLivingIndex": "61.2500",
+    "rentIndex": "15.1500",
+    "restaurantsIndex": "38.1100",
+    "localPurchasingPowerIndex": "55.9700"
+  },
+  {
+    "country": "Cambodia",
+    "costOfLivingIndex": "47.8200",
+    "rentIndex": "15.1300",
+    "restaurantsIndex": "25.4300",
+    "localPurchasingPowerIndex": "11.7900"
+  },
+  {
+    "country": "Guatemala",
+    "costOfLivingIndex": "43.0400",
+    "rentIndex": "14.7700",
+    "restaurantsIndex": "33.7000",
+    "localPurchasingPowerIndex": "41.4700"
+  },
+  {
+    "country": "Jamaica",
+    "costOfLivingIndex": "56.4400",
+    "rentIndex": "14.7600",
+    "restaurantsIndex": "39.8800",
+    "localPurchasingPowerIndex": "35.3900"
+  },
+  {
+    "country": "Tanzania",
+    "costOfLivingIndex": "35.0700",
+    "rentIndex": "14.7400",
+    "restaurantsIndex": "24.4000",
+    "localPurchasingPowerIndex": "20.6400"
+  },
+  {
+    "country": "Iran",
+    "costOfLivingIndex": "41.3900",
+    "rentIndex": "14.2900",
+    "restaurantsIndex": "25.5400",
+    "localPurchasingPowerIndex": "25.9500"
+  },
+  {
+    "country": "Hungary",
+    "costOfLivingIndex": "41.7000",
+    "rentIndex": "13.8400",
+    "restaurantsIndex": "34.2000",
+    "localPurchasingPowerIndex": "53.7800"
+  },
+  {
+    "country": "Vietnam",
+    "costOfLivingIndex": "38.1700",
+    "rentIndex": "13.3400",
+    "restaurantsIndex": "19.9800",
+    "localPurchasingPowerIndex": "30.2200"
+  },
+  {
+    "country": "Lithuania",
+    "costOfLivingIndex": "45.4100",
+    "rentIndex": "12.8000",
+    "restaurantsIndex": "43.7700",
+    "localPurchasingPowerIndex": "60.4400"
+  },
+  {
+    "country": "Croatia",
+    "costOfLivingIndex": "50.0500",
+    "rentIndex": "12.7100",
+    "restaurantsIndex": "42.0700",
+    "localPurchasingPowerIndex": "57.2300"
+  },
+  {
+    "country": "Peru",
+    "costOfLivingIndex": "38.8200",
+    "rentIndex": "12.4100",
+    "restaurantsIndex": "26.3200",
+    "localPurchasingPowerIndex": "37.4200"
+  },
+  {
+    "country": "Latvia",
+    "costOfLivingIndex": "49.5500",
+    "rentIndex": "12.0400",
+    "restaurantsIndex": "47.7300",
+    "localPurchasingPowerIndex": "56.5500"
+  },
+  {
+    "country": "Russia",
+    "costOfLivingIndex": "38.5900",
+    "rentIndex": 12,
+    "restaurantsIndex": "39.3200",
+    "localPurchasingPowerIndex": "43.6900"
+  },
+  {
+    "country": "Jordan",
+    "costOfLivingIndex": "55.3600",
+    "rentIndex": "11.8800",
+    "restaurantsIndex": "49.7000",
+    "localPurchasingPowerIndex": "37.3400"
+  },
+  {
+    "country": "Ecuador",
+    "costOfLivingIndex": "41.9900",
+    "rentIndex": "11.8300",
+    "restaurantsIndex": "31.4900",
+    "localPurchasingPowerIndex": "40.8400"
+  },
+  {
+    "country": "Saudi Arabia",
+    "costOfLivingIndex": "48.7100",
+    "rentIndex": "11.5500",
+    "restaurantsIndex": "34.1700",
+    "localPurchasingPowerIndex": "110.9300"
+  },
+  {
+    "country": "Zimbabwe",
+    "costOfLivingIndex": "54.7200",
+    "rentIndex": "11.5100",
+    "restaurantsIndex": "39.5700",
+    "localPurchasingPowerIndex": "28.6600"
+  },
+  {
+    "country": "Greece",
+    "costOfLivingIndex": "56.7200",
+    "rentIndex": "11.4700",
+    "restaurantsIndex": "55.4200",
+    "localPurchasingPowerIndex": "48.4600"
+  },
+  {
+    "country": "Botswana",
+    "costOfLivingIndex": "39.3700",
+    "rentIndex": "11.4300",
+    "restaurantsIndex": "42.5600",
+    "localPurchasingPowerIndex": "67.5700"
+  },
+  {
+    "country": "Mauritius",
+    "costOfLivingIndex": "51.6000",
+    "rentIndex": "11.3000",
+    "restaurantsIndex": "40.2700",
+    "localPurchasingPowerIndex": "36.7600"
+  },
+  {
+    "country": "Kenya",
+    "costOfLivingIndex": "39.2600",
+    "rentIndex": "11.2000",
+    "restaurantsIndex": "32.3500",
+    "localPurchasingPowerIndex": "29.3400"
+  },
+  {
+    "country": "Iraq",
+    "costOfLivingIndex": "39.8400",
+    "rentIndex": "11.1100",
+    "restaurantsIndex": "33.9200",
+    "localPurchasingPowerIndex": "46.4100"
+  },
+  {
+    "country": "Zambia",
+    "costOfLivingIndex": "35.4900",
+    "rentIndex": "10.9900",
+    "restaurantsIndex": "25.5700",
+    "localPurchasingPowerIndex": "69.4000"
+  },
+  {
+    "country": "Honduras",
+    "costOfLivingIndex": "42.3400",
+    "rentIndex": "10.9700",
+    "restaurantsIndex": "31.6400",
+    "localPurchasingPowerIndex": "35.5200"
+  },
+  {
+    "country": "Brazil",
+    "costOfLivingIndex": "42.6400",
+    "rentIndex": "10.9200",
+    "restaurantsIndex": "34.2200",
+    "localPurchasingPowerIndex": "36.3100"
+  },
+  {
+    "country": "Mexico",
+    "costOfLivingIndex": "34.2900",
+    "rentIndex": "10.8500",
+    "restaurantsIndex": "30.9700",
+    "localPurchasingPowerIndex": "47.0500"
+  },
+  {
+    "country": "Malaysia",
+    "costOfLivingIndex": "39.4600",
+    "rentIndex": "10.6500",
+    "restaurantsIndex": "22.9700",
+    "localPurchasingPowerIndex": "70.3500"
+  },
+  {
+    "country": "Belize",
+    "costOfLivingIndex": "49.0600",
+    "rentIndex": "10.6200",
+    "restaurantsIndex": "39.4700",
+    "localPurchasingPowerIndex": "71.1600"
+  },
+  {
+    "country": "Bolivia",
+    "costOfLivingIndex": "34.0700",
+    "rentIndex": "10.6200",
+    "restaurantsIndex": "26.6400",
+    "localPurchasingPowerIndex": "44.7400"
+  },
+  {
+    "country": "Dominican Republic",
+    "costOfLivingIndex": "46.1700",
+    "rentIndex": "10.5900",
+    "restaurantsIndex": "42.2100",
+    "localPurchasingPowerIndex": "25.1800"
+  },
+  {
+    "country": "Armenia",
+    "costOfLivingIndex": "32.7000",
+    "rentIndex": "10.5600",
+    "restaurantsIndex": "31.0400",
+    "localPurchasingPowerIndex": "30.4400"
+  },
+  {
+    "country": "Argentina",
+    "costOfLivingIndex": "38.7200",
+    "rentIndex": "10.3800",
+    "restaurantsIndex": "36.4300",
+    "localPurchasingPowerIndex": "52.0100"
+  },
+  {
+    "country": "Ukraine",
+    "costOfLivingIndex": "30.9400",
+    "rentIndex": "10.3300",
+    "restaurantsIndex": "23.9800",
+    "localPurchasingPowerIndex": "33.1400"
+  },
+  {
+    "country": "Belarus",
+    "costOfLivingIndex": "33.0200",
+    "rentIndex": "10.3200",
+    "restaurantsIndex": "34.2700",
+    "localPurchasingPowerIndex": "42.9200"
+  },
+  {
+    "country": "Montenegro",
+    "costOfLivingIndex": "39.3700",
+    "rentIndex": "10.3000",
+    "restaurantsIndex": "34.1700",
+    "localPurchasingPowerIndex": "42.1900"
+  },
+  {
+    "country": "Romania",
+    "costOfLivingIndex": "36.0700",
+    "rentIndex": "10.1900",
+    "restaurantsIndex": "31.6800",
+    "localPurchasingPowerIndex": "54.2000"
+  },
+  {
+    "country": "Uganda",
+    "costOfLivingIndex": "31.7200",
+    "rentIndex": "10.0200",
+    "restaurantsIndex": "24.2000",
+    "localPurchasingPowerIndex": "22.4900"
+  },
+  {
+    "country": "Paraguay",
+    "costOfLivingIndex": "33.3200",
+    "rentIndex": "9.8100",
+    "restaurantsIndex": "27.5000",
+    "localPurchasingPowerIndex": "35.2300"
+  },
+  {
+    "country": "Rwanda",
+    "costOfLivingIndex": "34.0100",
+    "rentIndex": "9.7300",
+    "restaurantsIndex": "28.4700",
+    "localPurchasingPowerIndex": "21.1300"
+  },
+  {
+    "country": "Mongolia",
+    "costOfLivingIndex": "34.4300",
+    "rentIndex": "9.6800",
+    "restaurantsIndex": "23.3100",
+    "localPurchasingPowerIndex": "29.8300"
+  },
+  {
+    "country": "Kazakhstan",
+    "costOfLivingIndex": "30.0600",
+    "rentIndex": "9.5100",
+    "restaurantsIndex": "29.8800",
+    "localPurchasingPowerIndex": "38.6500"
+  },
+  {
+    "country": "Bulgaria",
+    "costOfLivingIndex": "37.3700",
+    "rentIndex": "9.4500",
+    "restaurantsIndex": "29.7100",
+    "localPurchasingPowerIndex": 51
+  },
+  {
+    "country": "Colombia",
+    "costOfLivingIndex": "30.2500",
+    "rentIndex": "9.4300",
+    "restaurantsIndex": "22.3300",
+    "localPurchasingPowerIndex": "34.5500"
+  },
+  {
+    "country": "Georgia",
+    "costOfLivingIndex": "27.7800",
+    "rentIndex": "9.3000",
+    "restaurantsIndex": "25.9700",
+    "localPurchasingPowerIndex": "30.2300"
+  },
+  {
+    "country": "Morocco",
+    "costOfLivingIndex": "34.5900",
+    "rentIndex": "9.2900",
+    "restaurantsIndex": "23.9400",
+    "localPurchasingPowerIndex": "39.4000"
+  },
+  {
+    "country": "Palestine",
+    "costOfLivingIndex": "52.9900",
+    "rentIndex": "9.2500",
+    "restaurantsIndex": "38.4400",
+    "localPurchasingPowerIndex": "52.8200"
+  },
+  {
+    "country": "Azerbaijan",
+    "costOfLivingIndex": "29.8100",
+    "rentIndex": "9.1700",
+    "restaurantsIndex": "31.4000",
+    "localPurchasingPowerIndex": "28.4800"
+  },
+  {
+    "country": "Indonesia",
+    "costOfLivingIndex": "36.8600",
+    "rentIndex": "9.0100",
+    "restaurantsIndex": "18.1800",
+    "localPurchasingPowerIndex": "31.0100"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "costOfLivingIndex": "28.1300",
+    "rentIndex": "8.9600",
+    "restaurantsIndex": "22.3000",
+    "localPurchasingPowerIndex": "25.2800"
+  },
+  {
+    "country": "Nicaragua",
+    "costOfLivingIndex": "45.8700",
+    "rentIndex": "8.9100",
+    "restaurantsIndex": "31.5600",
+    "localPurchasingPowerIndex": "24.4300"
+  },
+  {
+    "country": "Serbia",
+    "costOfLivingIndex": "36.3000",
+    "rentIndex": "8.7500",
+    "restaurantsIndex": "29.8700",
+    "localPurchasingPowerIndex": "37.9400"
+  },
+  {
+    "country": "Philippines",
+    "costOfLivingIndex": "36.9700",
+    "rentIndex": "8.6600",
+    "restaurantsIndex": "20.8600",
+    "localPurchasingPowerIndex": "27.2100"
+  },
+  {
+    "country": "Albania",
+    "costOfLivingIndex": "36.6300",
+    "rentIndex": "8.6300",
+    "restaurantsIndex": "28.6700",
+    "localPurchasingPowerIndex": "32.1900"
+  },
+  {
+    "country": "Suriname",
+    "costOfLivingIndex": "39.5800",
+    "rentIndex": "8.1900",
+    "restaurantsIndex": "33.3600",
+    "localPurchasingPowerIndex": "24.7600"
+  },
+  {
+    "country": "Moldova",
+    "costOfLivingIndex": "32.6300",
+    "rentIndex": "7.9000",
+    "restaurantsIndex": "27.2200",
+    "localPurchasingPowerIndex": "29.4800"
+  },
+  {
+    "country": "Uzbekistan",
+    "costOfLivingIndex": "25.7900",
+    "rentIndex": "7.8200",
+    "restaurantsIndex": "19.3400",
+    "localPurchasingPowerIndex": "25.8000"
+  },
+  {
+    "country": "Turkey",
+    "costOfLivingIndex": "35.6600",
+    "rentIndex": "7.2700",
+    "restaurantsIndex": "25.1500",
+    "localPurchasingPowerIndex": "44.4400"
+  },
+  {
+    "country": "Venezuela",
+    "costOfLivingIndex": "27.2200",
+    "rentIndex": "6.8500",
+    "restaurantsIndex": "22.3100",
+    "localPurchasingPowerIndex": "2.7900"
+  },
+  {
+    "country": "Sri Lanka",
+    "costOfLivingIndex": "32.9500",
+    "rentIndex": "6.8300",
+    "restaurantsIndex": "19.2700",
+    "localPurchasingPowerIndex": "25.5900"
+  },
+  {
+    "country": "Bosnia And Herzegovina",
+    "costOfLivingIndex": "36.1900",
+    "rentIndex": "6.5900",
+    "restaurantsIndex": "24.7800",
+    "localPurchasingPowerIndex": "46.5200"
+  },
+  {
+    "country": "Macedonia",
+    "costOfLivingIndex": "32.2700",
+    "rentIndex": "6.5000",
+    "restaurantsIndex": "24.4900",
+    "localPurchasingPowerIndex": "40.1600"
+  },
+  {
+    "country": "Cuba",
+    "costOfLivingIndex": "41.7300",
+    "rentIndex": "6.3100",
+    "restaurantsIndex": "29.7100",
+    "localPurchasingPowerIndex": "2.6700"
+  },
+  {
+    "country": "India",
+    "costOfLivingIndex": "25.1400",
+    "rentIndex": "5.9900",
+    "restaurantsIndex": "17.5100",
+    "localPurchasingPowerIndex": "61.7300"
+  },
+  {
+    "country": "Algeria",
+    "costOfLivingIndex": "30.5400",
+    "rentIndex": "5.5100",
+    "restaurantsIndex": "16.4600",
+    "localPurchasingPowerIndex": "31.9700"
+  },
+  {
+    "country": "Syria",
+    "costOfLivingIndex": "25.3100",
+    "rentIndex": "5.4400",
+    "restaurantsIndex": "20.7700",
+    "localPurchasingPowerIndex": "12.3700"
+  },
+  {
+    "country": "Egypt",
+    "costOfLivingIndex": "29.0900",
+    "rentIndex": "5.2800",
+    "restaurantsIndex": "24.2400",
+    "localPurchasingPowerIndex": "23.2700"
+  },
+  {
+    "country": "Tunisia",
+    "costOfLivingIndex": "25.4300",
+    "rentIndex": "5.1800",
+    "restaurantsIndex": "14.0500",
+    "localPurchasingPowerIndex": "37.6300"
+  },
+  {
+    "country": "Bangladesh",
+    "costOfLivingIndex": "32.6200",
+    "rentIndex": "5.1800",
+    "restaurantsIndex": "19.8000",
+    "localPurchasingPowerIndex": "37.2100"
+  },
+  {
+    "country": "Nepal",
+    "costOfLivingIndex": "30.6900",
+    "rentIndex": "4.9600",
+    "restaurantsIndex": "20.2700",
+    "localPurchasingPowerIndex": "24.1500"
+  },
+  {
+    "country": "Afghanistan",
+    "costOfLivingIndex": "24.5100",
+    "rentIndex": "4.2900",
+    "restaurantsIndex": "17.1200",
+    "localPurchasingPowerIndex": "28.8700"
+  },
+  {
+    "country": "Pakistan",
+    "costOfLivingIndex": "18.5800",
+    "rentIndex": "4.0200",
+    "restaurantsIndex": "13.7800",
+    "localPurchasingPowerIndex": "36.1000"
+  }
+]

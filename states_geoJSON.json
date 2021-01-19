@@ -1,0 +1,567 @@
+{"type":"FeatureCollection",
+    "features":[
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Alabama"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-86.80249,33.52066]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 10.34,
+                "place": "Alaska"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-149.90028,61.21806	]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 12.15,
+                "place": "Arizona"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-112.07404,33.44838	]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 11.0,
+                "place": "Arkansas"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-92.373123,34.969704]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 13.0,
+                "place": "California"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.16472,32.71571]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 12.32,
+                "place": "Colorado"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-104.9847,39.73915]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 12.0,
+                "place": "Connecticut"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-73.18945,41.17923]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 9.25,
+                "place": "Delaware"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-75.54659,39.74595]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 8.65,
+                "place": "Florida"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-80.19366,25.77427]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Georgia"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-84.38798,33.749]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 10.10,
+                "place": "Hawaii"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-157.97516,21.39734]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Idaho"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.01766,46.41655]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 11.0,
+                "place": "Illinois"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-89.64371,39.80172]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Indiana"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-86.15804,39.76838]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Iowa"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-93.60911,41.60054]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Kansas"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-95.23525,38.97167]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Kentucky"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-85.75941,38.25424]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Louisiana"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-92.01984,30.22409]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 12.15,
+                "place": "Maine"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-70.2589,43.65737]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 12.15,
+                "place": "Maryland"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-76.61219,39.29038]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 13.5,
+                "place": "Massachusetts"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-71.05977,42.35843]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 9.65,
+                "place": "Michigan"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-83.04575,42.33143]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 10.08,
+                "place": "Minnesota"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-93.26384,44.97997]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Mississippi"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-90.18481,32.29876]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 10.3,
+                "place": "Missouri"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-93.29824,37.21533]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 8.75,
+                "place": "Montana"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-108.50069,45.78329]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 9.0,
+                "place": "Nebraska"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-95.94043,41.25626]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 9.75,
+                "place": "Nevada"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-115.13722,36.17497	]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "New Hampshire"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-71.53757,43.20814	]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 12.0,
+                "place": "New Jersey"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-74.74294,40.21705]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 10.5,
+                "place": "New Mexico"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-106.65114,35.08449]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 12.5,
+                "place": "New York"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-73.75623,42.65258]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "North Carolina"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-80.84313,35.22709]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "North Dakota"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-100.78374,46.80833]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 8.80,
+                "place": "Ohio"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-82.99879,39.96118	]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Oklahoma"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-97.51643,35.46756]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 12.0,
+                "place": "Oregon"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-123.0351,44.9429]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Pennsylvania"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-80.08506,42.12922]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 11.5,
+                "place": "Rhode Island"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-71.41283,41.82399]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "South Carolina"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-81.03481,34.00071]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 9.45,
+                "place": "South Dakota"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-100.35097,44.36832]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Tennessee"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-86.78444,36.16589]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Texas"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-97.74306,30.26715]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Utah"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-111.9391,40.52189]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 11.75,
+                "place": "Vermont"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-73.21207,44.47588]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Virginia"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-77.46026,37.55376]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 13.69,
+                "place": "Washington"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-122.22845,47.30732]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 8.75,
+                "place": "West Virginia"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-82.44515,38.41925]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Wisconsin"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-89.40123,43.07305]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Wyoming"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-104.82025,41.13998]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 6.55,
+                "place": "Puerto Rico"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-66.590149,18.220833]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 15.0,
+                "place": "District of Columbia"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-77.03637,38.89511]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Federal"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-95.712891,37.09024]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        }
+        ]}

@@ -1,0 +1,320 @@
+[
+    {
+        "States": "Alabama",
+        "Minimum_Wage": "7.25",
+        "Latitude": "33.52066",
+        "Longitude": "-86.80249"
+    },
+    {
+        "States": "Alaska",
+        "Minimum_Wage": "10.34",
+        "Latitude": "61.21806",
+        "Longitude": " -149.90028"
+    },
+    {
+        "States": "Arizona",
+        "Minimum_Wage": "12.15",
+        "Latitude": "33.44838",
+        "Longitude": "-112.07404"
+    },
+    {
+        "States": "Arkansas",
+        "Minimum_Wage": "11.00",
+        "Latitude": "34.969704",
+        "Longitude": "-92.373123"
+    },
+    {
+        "States": "California",
+        "Minimum_Wage": "13.00",
+        "Latitude": "32.71571",
+        "Longitude": "-117.16472"
+    },
+    {
+        "States": "Colorado",
+        "Minimum_Wage": "12.32",
+        "Latitude": "39.73915",
+        "Longitude": "-104.9847"
+    },
+    {
+        "States": "Connecticut",
+        "Minimum_Wage": "12.00",
+        "Latitude": "41.17923",
+        "Longitude": "-73.18945"
+    },
+    {
+        "States": "Delaware",
+        "Minimum_Wage": "9.25",
+        "Latitude": "39.74595",
+        "Longitude": "-75.54659"
+    },
+    {
+        "States": "Florida",
+        "Minimum_Wage": "8.65",
+        "Latitude": "25.77427",
+        "Longitude": "-80.19366"
+    },
+    {
+        "States": "Georgia",
+        "Minimum_Wage": "7.25",
+        "Latitude": "33.749",
+        "Longitude": "-84.38798"
+    },
+    {
+        "States": "Hawaii",
+        "Minimum_Wage": "10.10",
+        "Latitude": "21.39734",
+        "Longitude": "-157.97516"
+    },
+    {
+        "States": "Idaho",
+        "Minimum_Wage": "7.25",
+        "Latitude": "46.41655",
+        "Longitude": "-117.01766"
+    },
+    {
+        "States": "Illinois",
+        "Minimum_Wage": "11.00",
+        "Latitude": "39.80172",
+        "Longitude": "-89.64371"
+    },
+    {
+        "States": "Indiana",
+        "Minimum_Wage": "7.25",
+        "Latitude": "39.76838",
+        "Longitude": "-86.15804"
+    },
+    {
+        "States": "Iowa",
+        "Minimum_Wage": "7.25",
+        "Latitude": "41.60054",
+        "Longitude": "-93.60911"
+    },
+    {
+        "States": "Kansas",
+        "Minimum_Wage": "7.25",
+        "Latitude": "38.97167",
+        "Longitude": "-95.23525"
+    },
+    {
+        "States": "Kentucky",
+        "Minimum_Wage": "7.25",
+        "Latitude": "38.25424",
+        "Longitude": "-85.75941"
+    },
+    {
+        "States": "Louisiana",
+        "Minimum_Wage": "7.25",
+        "Latitude": "30.22409",
+        "Longitude": "-92.01984"
+    },
+    {
+        "States": "Maine",
+        "Minimum_Wage": "12.15",
+        "Latitude": "43.65737",
+        "Longitude": "-70.2589"
+    },
+    {
+        "States": "Maryland",
+        "Minimum_Wage": "11.75",
+        "Latitude": "39.29038",
+        "Longitude": "-76.61219"
+    },
+    {
+        "States": "Massachusetts",
+        "Minimum_Wage": "13.50",
+        "Latitude": "42.35843",
+        "Longitude": "-71.05977"
+    },
+    {
+        "States": "Michigan",
+        "Minimum_Wage": "9.65",
+        "Latitude": "42.33143",
+        "Longitude": "-83.04575"
+    },
+    {
+        "States": "Minnesota",
+        "Minimum_Wage": "10.08",
+        "Latitude": "44.97997",
+        "Longitude": "-93.26384"
+    },
+    {
+        "States": "Mississippi",
+        "Minimum_Wage": "7.25",
+        "Latitude": "32.29876",
+        "Longitude": "-90.18481"
+    },
+    {
+        "States": "Missouri",
+        "Minimum_Wage": "10.30",
+        "Latitude": "37.21533 ",
+        "Longitude": "-93.29824"
+    },
+    {
+        "States": "Montana",
+        "Minimum_Wage": "8.75",
+        "Latitude": "45.78329",
+        "Longitude": "-108.50069"
+    },
+    {
+        "States": "Nebraska",
+        "Minimum_Wage": "9.00",
+        "Latitude": "41.25626",
+        "Longitude": "-95.94043"
+    },
+    {
+        "States": "Nevada",
+        "Minimum_Wage": "9.75",
+        "Latitude": "36.17497",
+        "Longitude": "-115.13722"
+    },
+    {
+        "States": "New Hampshire",
+        "Minimum_Wage": "7.25",
+        "Latitude": "43.20814",
+        "Longitude": "-71.53757"
+    },
+    {
+        "States": "New Jersey",
+        "Minimum_Wage": "12.00",
+        "Latitude": "40.21705",
+        "Longitude": "-74.74294"
+    },
+    {
+        "States": "New Mexico",
+        "Minimum_Wage": "10.50",
+        "Latitude": "35.08449",
+        "Longitude": "-106.65114"
+    },
+    {
+        "States": "New York",
+        "Minimum_Wage": "12.50",
+        "Latitude": "42.65258",
+        "Longitude": "-73.75623"
+    },
+    {
+        "States": "North Carolina",
+        "Minimum_Wage": "7.25",
+        "Latitude": "35.22709",
+        "Longitude": "-80.84313"
+    },
+    {
+        "States": "North Dakota",
+        "Minimum_Wage": "7.25",
+        "Latitude": "46.80833",
+        "Longitude": "-100.78374"
+    },
+    {
+        "States": "Ohio",
+        "Minimum_Wage": "8.80",
+        "Latitude": "39.96118",
+        "Longitude": "-82.99879"
+    },
+    {
+        "States": "Oklahoma",
+        "Minimum_Wage": "7.25",
+        "Latitude": "35.46756",
+        "Longitude": "-97.51643"
+    },
+    {
+        "States": "Oregon",
+        "Minimum_Wage": "12.00",
+        "Latitude": "44.9429",
+        "Longitude": "-123.0351"
+    },
+    {
+        "States": "Pennsylvania",
+        "Minimum_Wage": "7.25",
+        "Latitude": "42.12922",
+        "Longitude": "-80.08506"
+    },
+    {
+        "States": "Rhode Island",
+        "Minimum_Wage": "11.50",
+        "Latitude": "41.82399",
+        "Longitude": "-71.41283"
+    },
+    {
+        "States": "South Carolina",
+        "Minimum_Wage": "7.25",
+        "Latitude": "34.00071",
+        "Longitude": "-81.03481"
+    },
+    {
+        "States": "South Dakota",
+        "Minimum_Wage": "9.45",
+        "Latitude": "44.36832",
+        "Longitude": "-100.35097"
+    },
+    {
+        "States": "Tennessee",
+        "Minimum_Wage": "7.25",
+        "Latitude": "36.16589",
+        "Longitude": "-86.78444"
+    },
+    {
+        "States": "Texas",
+        "Minimum_Wage": "7.25",
+        "Latitude": "30.26715",
+        "Longitude": "-97.74306"
+    },
+    {
+        "States": "Utah",
+        "Minimum_Wage": "7.25",
+        "Latitude": "40.52189",
+        "Longitude": "-111.9391"
+    },
+    {
+        "States": "Vermont",
+        "Minimum_Wage": "11.75",
+        "Latitude": "44.47588",
+        "Longitude": "-73.21207"
+    },
+    {
+        "States": "Virginia",
+        "Minimum_Wage": "7.25",
+        "Latitude": "37.55376",
+        "Longitude": "-77.46026"
+    },
+    {
+        "States": "Washington",
+        "Minimum_Wage": "13.69",
+        "Latitude": "47.30732 ",
+        "Longitude": "-122.22845"
+    },
+    {
+        "States": "West Virginia",
+        "Minimum_Wage": "8.75",
+        "Latitude": "38.41925",
+        "Longitude": "-82.44515"
+    },
+    {
+        "States": "Wisconsin",
+        "Minimum_Wage": "7.25",
+        "Latitude": "43.07305",
+        "Longitude": "-89.40123"
+    },
+    {
+        "States": "Wyoming",
+        "Minimum_Wage": "7.25",
+        "Latitude": "41.13998",
+        "Longitude": "-104.82025"
+    },
+    {
+        "States": "Puerto Rico",
+        "Minimum_Wage": "6.55",
+        "Latitude": "18.220833",
+        "Longitude": "-66.590149"
+    },
+    {
+        "States": "District of Columbia",
+        "Minimum_Wage": "15.00",
+        "Latitude": "38.89511",
+        "Longitude": "-77.03637"
+    },
+    {
+        "States": "Federal",
+        "Minimum_Wage": "7.25",
+        "Latitude": "37.09024",
+        "Longitude": "-95.712891"
+    }
+]

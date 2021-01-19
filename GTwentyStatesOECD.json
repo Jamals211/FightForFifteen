@@ -1,0 +1,938 @@
+{"type":"FeatureCollection",
+    "features":[
+{"type":"Feature",
+    "properties":{"mag":0.58,"place":"Argentina","shape":"Marker","name":"Unnamed Layer","category":"default"},
+    "geometry":{"type":"Point","coordinates":[-63.524822,-36.315125]},"id":"8cd2e566-59b3-457d-a706-3f336f51c214"},
+{"type":"Feature",
+    "properties":{"mag":13,"place":"Australia","shape":"Marker","name":"Unnamed Layer","category":"default"},
+    "geometry":{"type":"Point","coordinates":[ 135.7003, -20.88264]},"id":"1c7224f7-07a0-4670-bf65-f816da552876"},
+
+
+{"type":"Feature",
+    "properties":{
+        "mag":1.46,
+        "place":"Russia",
+        "shape":"Marker",
+        "name":"Unnamed Layer",
+        "category":"default"},
+    "geometry":{
+        "type":"Point",
+        "coordinates":[  49.12214, 55.78874]
+    },
+    "id":"91e59a40-35e8-485c-a896-19fab03435a0"},
+
+
+
+{"type":"Feature",
+    "properties":{
+        "mag":1,
+        "place":"Brazil",
+        "shape":"Marker",
+        "name":"Unnamed Layer",
+        "category":"default"},
+    "geometry":{
+        "type":"Point",
+        "coordinates":[-49.098399,-8.754795]},
+        "id":"2e56d04a-e859-484b-8db1-551df43ca4aa"},
+
+
+{"type":"Feature",
+    "properties":{"mag":1.68,"place":"China","shape":"Marker","name":"Unnamed Layer","category":"default"},
+    "geometry":{"type":"Point","coordinates":[108.92861,34.25833]},"id":"b6079ccf-44a5-4298-ade3-6b14e04bce7f"},
+{"type":"Feature",
+    "properties":{"mag":12,"place":"France","shape":"Marker","name":"Unnamed Layer","category":"default"},
+    "geometry":{"type":"Point","coordinates":[1.101792,46.739861]},"id":"eb3d7d20-0034-46e6-b660-d5a8002d8154"},
+{"type":"Feature",
+    "properties":{"mag":11.09,"place":"Germany","shape":"Marker","name":"Unnamed Layer","category":"default"},
+    "geometry":{"type":"Point","coordinates":[9.986358,50.958427]},"id":"ebf3c452-1f35-47db-a869-1a63267f871a"},
+{"type":"Feature",
+    "properties":{"mag":0.79,"place":"India","shape":"Marker","name":"Unnamed Layer","category":"default"},
+    "geometry":{"type":"Point","coordinates":[78.175012,21.207459]},"id":"73f32e02-dfc2-4fbb-b79d-13128e8c5d8c"},
+{"type":"Feature",
+    "properties":{"mag":1.45,"place":"Indonesia","shape":"Marker","name":"Unnamed Layer","category":"default"},
+    "geometry":{"type":"Point","coordinates":[101.749898,-2.196727]},"id":"8281894d-a30f-46f8-a691-c225de1b738a"},
+{"type":"Feature",
+    "properties":{"mag":6.88,"place":"Japan","shape":"Marker","name":"Unnamed Layer","category":"default"},
+    "geometry":{"type":"Point","coordinates":[138.431717,36.385913]},"id":"eca64192-f49e-42db-8147-173cc7788ec8"},
+{"type":"Feature",
+    "properties":{"mag":5.7,"place":"Korea","shape":"Marker","name":"Unnamed Layer","category":"default"},
+    "geometry":{"type":"Point","coordinates":[127.787832,35.46067]},"id":"0f802d0b-71ec-44c0-9d30-f55fc2a43a26"},
+{"type":"Feature",
+    "properties":{"mag":0.9,"place":"Mexico","shape":"Marker","name":"Unnamed Layer","category":"default"},
+    "geometry":{"type":"Point","coordinates":[-102.47175,20.632784]},"id":"ce752507-d7c5-4454-ba2b-3392c3e7d632"},
+{"type":"Feature",
+    "properties":{"mag":3.95,"place":"Saudi Arabia","shape":"Marker","name":"Unnamed Layer","category":"default"},
+    "geometry":{"type":"Point","coordinates":[46.72185, 24.68773]},"id":"c70beea2-20a9-46c2-857d-1788566a0305"},
+{"type":"Feature",
+    "properties":{"mag":1.31,"place":"South Africa","shape":"Marker","name":"Unnamed Layer","category":"default"},
+    "geometry":{"type":"Point","coordinates":[28.04363, -26.20227]},"id":"50a97912-5d00-455c-9ece-bf01bace2540"},
+{"type":"Feature",
+    "properties":{"mag":2.35,"place":"Turkey","shape":"Marker","name":"Unnamed Layer","category":"default"},
+    "geometry":{"type":"Point","coordinates":[32.85427, 39.91987]},"id":"2eccea7d-1173-4af2-8218-6c12fb6c8d7e"},
+
+{"type":"Feature",
+    "properties":{"mag":11.45,"place":"Canada","shape":"Marker","name":"Unnamed Layer","category":"default"},
+    "geometry":{"type":"Point","coordinates":[-106.63452, 52.11679]},"id":"5470b0eb-a467-463b-9750-5f7328989878"},
+{"type":"Feature",
+    "properties":{"mag":7.25,"place":"United States","shape":"Marker","name":"Unnamed Layer","category":"default"},
+    "geometry":{"type":"Point","coordinates":[-77.03637, 38.89511]},"id":"6ecd6b10-b9ae-419f-99f8-2575ea4ab1f4"},
+{"type":"Feature",
+    "properties":{"mag":7.54,"place":"United Kingdom","shape":"Marker","name":"Unnamed Layer","category":"default"},
+    "geometry":{"type":"Point","coordinates":[-0.12574, 51.50853]},"id":"53a37955-5b90-4659-9322-7497a3dacbfc"},
+        
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Alabama"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-86.80249,33.52066]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 10.34,
+                "place": "Alaska"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-149.90028,61.21806	]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 12.15,
+                "place": "Arizona"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-112.07404,33.44838	]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 11.0,
+                "place": "Arkansas"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-92.373123,34.969704]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 13.0,
+                "place": "California"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.16472,32.71571]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 12.32,
+                "place": "Colorado"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-104.9847,39.73915]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 12.0,
+                "place": "Connecticut"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-73.18945,41.17923]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 9.25,
+                "place": "Delaware"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-75.54659,39.74595]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 8.65,
+                "place": "Florida"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-80.19366,25.77427]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Georgia"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-84.38798,33.749]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 10.10,
+                "place": "Hawaii"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-157.97516,21.39734]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Idaho"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.01766,46.41655]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 11.0,
+                "place": "Illinois"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-89.64371,39.80172]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Indiana"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-86.15804,39.76838]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Iowa"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-93.60911,41.60054]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Kansas"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-95.23525,38.97167]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Kentucky"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-85.75941,38.25424]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Louisiana"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-92.01984,30.22409]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 12.15,
+                "place": "Maine"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-70.2589,43.65737]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 12.15,
+                "place": "Maryland"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-76.61219,39.29038]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 13.5,
+                "place": "Massachusetts"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-71.05977,42.35843]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 9.65,
+                "place": "Michigan"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-83.04575,42.33143]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 10.08,
+                "place": "Minnesota"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-93.26384,44.97997]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Mississippi"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-90.18481,32.29876]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 10.3,
+                "place": "Missouri"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-93.29824,37.21533]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 8.75,
+                "place": "Montana"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-108.50069,45.78329]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 9.0,
+                "place": "Nebraska"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-95.94043,41.25626]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 9.75,
+                "place": "Nevada"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-115.13722,36.17497	]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "New Hampshire"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-71.53757,43.20814	]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 12.0,
+                "place": "New Jersey"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-74.74294,40.21705]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 10.5,
+                "place": "New Mexico"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-106.65114,35.08449]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 12.5,
+                "place": "New York"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-73.75623,42.65258]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "North Carolina"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-80.84313,35.22709]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "North Dakota"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-100.78374,46.80833]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 8.80,
+                "place": "Ohio"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-82.99879,39.96118	]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Oklahoma"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-97.51643,35.46756]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 12.0,
+                "place": "Oregon"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-123.0351,44.9429]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Pennsylvania"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-80.08506,42.12922]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 11.5,
+                "place": "Rhode Island"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-71.41283,41.82399]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "South Carolina"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-81.03481,34.00071]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 9.45,
+                "place": "South Dakota"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-100.35097,44.36832]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Tennessee"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-86.78444,36.16589]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Texas"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-97.74306,30.26715]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Utah"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-111.9391,40.52189]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 11.75,
+                "place": "Vermont"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-73.21207,44.47588]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Virginia"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-77.46026,37.55376]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 13.69,
+                "place": "Washington"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-122.22845,47.30732]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 8.75,
+                "place": "West Virginia"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-82.44515,38.41925]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Wisconsin"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-89.40123,43.07305]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Wyoming"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-104.82025,41.13998]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 6.55,
+                "place": "Puerto Rico"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-66.590149,18.220833]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 15.0,
+                "place": "District of Columbia"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-77.03637,38.89511]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "mag": 7.25,
+                "place": "Federal"},
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-95.712891,37.09024]},
+                "id":"e1a6332d-5dcb-4e19-9963-d55c133c3e78"
+        },
+
+
+
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 12.19,
+                "place": "Belgium",
+                "shape": "Marker",
+                "name": "Unnamed Layer",
+                "category": "default"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.667983, 50.652943]
+            },
+            "id": "5a386c91-a957-41c4-bf32-de36b513cb2c"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "mag": 2.55,
+                "place": "Chile",
+                "shape": "Marker",
+                "name": "Unnamed Layer",
+                "category": "default"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-72.158221, -36.491973]
+            },
+            "id": "94826bab-2c54-48ca-90bb-bacb82cfd638"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.7,
+                "place": "Colombia",
+                "shape": "Marker",
+                "name": "Unnamed Layer",
+                "category": "default"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.332379, 3.864255]
+            },
+            "id": "1205724d-e5eb-430a-9204-7a7b677a68de"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.21,
+                "place": "Czechia",
+                "shape": "Marker",
+                "name": "Unnamed Layer",
+                "category": "default"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [14.536696, 49.781264]
+            },
+            "id": "ac4d89c0-b5fa-41fa-b727-0c856453c3f0"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "mag": 3.33,
+                "place": "Estonia",
+                "shape": "Marker",
+                "name": "Unnamed Layer",
+                "category": "default"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [25.620841, 58.676938]
+            },
+            "id": "e8f5442b-c563-4405-9fd5-abe7b8cc70ab"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "mag": 5,
+                "place": "Greece",
+                "shape": "Marker",
+                "name": "Unnamed Layer",
+                "category": "default"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [22.190034, 38.891033]
+            },
+            "id": "5a2feb39-dc6f-4b02-980d-386e58d8baca"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "mag": 2.8,
+                "place": "Hungry",
+                "shape": "Marker",
+                "name": "Unnamed Layer",
+                "category": "default"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [19.287043, 46.55886]
+            },
+            "id": "62b09238-56bb-4a55-949c-2ac620ba871f"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "mag": 12.4,
+                "place": "Ireland",
+                "shape": "Marker",
+                "name": "Unnamed Layer",
+                "category": "default"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-8.071442, 52.961875]
+            },
+            "id": "5c4fb279-27ad-43f1-859c-27d5fbea06f6"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "mag": 8.1,
+                "place": "Israel",
+                "shape": "Marker",
+                "name": "Unnamed Layer",
+                "category": "default"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [34.807681, 31.765537]
+            },
+            "id": "72da0d8c-8fc0-49eb-b9aa-181b8d4fa2d2"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "mag": 3.2,
+                "place": "Latvia",
+                "shape": "Marker",
+                "name": "Unnamed Layer",
+                "category": "default"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [25.784726, 56.800878]
+            },
+            "id": "1b2e2c18-50ab-4ffc-9220-b0a4a0801eb4"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.7,
+                "place": "Lithuania",
+                "shape": "Marker",
+                "name": "Unnamed Layer",
+                "category": "default"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [23.76143, 55.028022]
+            },
+            "id": "e90022e5-61d5-4d58-95a1-b3ef8c844d4f"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "mag": 15.5,
+                "place": "Luxembourg",
+                "shape": "Marker",
+                "name": "Unnamed Layer",
+                "category": "default"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.076789, 49.738682]
+            },
+            "id": "d884bb75-079c-4c34-ba9b-6bf3cb0f89c0"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "Netherlands",
+                "shape": "Marker",
+                "name": "Unnamed Layer",
+                "category": "default"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [5.498738, 52.093008]
+            },
+            "id": "66e4880c-6241-405a-9d91-9a05f127c457"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "mag": 15.12,
+                "place": "New Zealand",
+                "shape": "Marker",
+                "name": "Unnamed Layer",
+                "category": "default"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 172.63333, -43.5333]
+            },
+            "id": "abdef2bc-ea00-4ba3-b1e8-ea6960a1ee03"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.6,
+                "place": "Poland",
+                "shape": "Marker",
+                "name": "Unnamed Layer",
+                "category": "default"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [19.320418, 51.781436]
+            },
+            "id": "2f4d9648-9ede-4fdb-839d-3bb592600724"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.5,
+                "place": "Portugal",
+                "shape": "Marker",
+                "name": "Unnamed Layer",
+                "category": "default"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-8.389945, 39.368279]
+            },
+            "id": "00473d7b-a413-429c-be8e-960593bd4741"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.3,
+                "place": "Slovakia",
+                "shape": "Marker",
+                "name": "Unnamed Layer",
+                "category": "default"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [18.890812, 48.777913]
+            },
+            "id": "18d94097-791d-426c-8526-a0840bf58af5"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.7,
+                "place": "Slovenia",
+                "shape": "Marker",
+                "name": "Unnamed Layer",
+                "category": "default"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [14.536327, 45.920587]
+            },
+            "id": "f806932c-0f7f-41e2-8208-88ce446bbecb"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.75,
+                "place": "Spain",
+                "shape": "Marker",
+                "name": "Unnamed Layer",
+                "category": "default"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-3.189509, 40.413496]
+            },
+            "id": "7e42d1aa-2166-4d56-9a03-7300319b9d23"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.96,
+                "place": "Costa Rica",
+                "shape": "Marker",
+                "name": "Unnamed Layer",
+                "category": "default"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-83.811604, 9.622414]
+            },
+            "id": "5d6f056b-4338-4e83-8f70-e426ce15a5e5"
+        }
+
+        
+        
+        
+        
+        
+        
+        ]}
