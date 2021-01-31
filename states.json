@@ -1,320 +1,320 @@
 [
     {
-        "States": "Alabama",
-        "Minimum_Wage": "7.25",
-        "Latitude": "33.52066",
-        "Longitude": "-86.80249"
+        "County": "Alabama",
+        "Lat": "33.52066",
+        "Long": "-86.80249",
+        "Minimum Wage": "7.25"
     },
     {
-        "States": "Alaska",
-        "Minimum_Wage": "10.34",
-        "Latitude": "61.21806",
-        "Longitude": " -149.90028"
+        "County": "Alaska",
+        "Lat": "61.21806",
+        "Long": " -149.90028",
+        "Minimum Wage": "10.34"
     },
     {
-        "States": "Arizona",
-        "Minimum_Wage": "12.15",
-        "Latitude": "33.44838",
-        "Longitude": "-112.07404"
+        "County": "Arizona",
+        "Lat": "33.44838",
+        "Long": "-112.07404",
+        "Minimum Wage": "12.15"
     },
     {
-        "States": "Arkansas",
-        "Minimum_Wage": "11.00",
-        "Latitude": "34.969704",
-        "Longitude": "-92.373123"
+        "County": "Arkansas",
+        "Lat": "34.969704",
+        "Long": "-92.373123",
+        "Minimum Wage": "11.00"
     },
     {
-        "States": "California",
-        "Minimum_Wage": "13.00",
-        "Latitude": "32.71571",
-        "Longitude": "-117.16472"
+        "County": "California",
+        "Lat": "32.71571",
+        "Long": "-117.16472",
+        "Minimum Wage": "13.00"
     },
     {
-        "States": "Colorado",
-        "Minimum_Wage": "12.32",
-        "Latitude": "39.73915",
-        "Longitude": "-104.9847"
+        "County": "Colorado",
+        "Lat": "39.73915",
+        "Long": "-104.9847",
+        "Minimum Wage": "12.32"
     },
     {
-        "States": "Connecticut",
-        "Minimum_Wage": "12.00",
-        "Latitude": "41.17923",
-        "Longitude": "-73.18945"
+        "County": "Connecticut",
+        "Lat": "41.17923",
+        "Long": "-73.18945",
+        "Minimum Wage": "12.00"
     },
     {
-        "States": "Delaware",
-        "Minimum_Wage": "9.25",
-        "Latitude": "39.74595",
-        "Longitude": "-75.54659"
+        "County": "Delaware",
+        "Lat": "39.74595",
+        "Long": "-75.54659",
+        "Minimum Wage": "9.25"
     },
     {
-        "States": "Florida",
-        "Minimum_Wage": "8.65",
-        "Latitude": "25.77427",
-        "Longitude": "-80.19366"
+        "County": "Florida",
+        "Lat": "25.77427",
+        "Long": "-80.19366",
+        "Minimum Wage": "8.65"
     },
     {
-        "States": "Georgia",
-        "Minimum_Wage": "7.25",
-        "Latitude": "33.749",
-        "Longitude": "-84.38798"
+        "County": "Georgia",
+        "Lat": "33.749",
+        "Long": "-84.38798",
+        "Minimum Wage": "7.25"
     },
     {
-        "States": "Hawaii",
-        "Minimum_Wage": "10.10",
-        "Latitude": "21.39734",
-        "Longitude": "-157.97516"
+        "County": "Hawaii",
+        "Lat": "21.39734",
+        "Long": "-157.97516",
+        "Minimum Wage": "10.10"
     },
     {
-        "States": "Idaho",
-        "Minimum_Wage": "7.25",
-        "Latitude": "46.41655",
-        "Longitude": "-117.01766"
+        "County": "Idaho",
+        "Lat": "46.41655",
+        "Long": "-117.01766",
+        "Minimum Wage": "7.25"
     },
     {
-        "States": "Illinois",
-        "Minimum_Wage": "11.00",
-        "Latitude": "39.80172",
-        "Longitude": "-89.64371"
+        "County": "Illinois",
+        "Lat": "39.80172",
+        "Long": "-89.64371",
+        "Minimum Wage": "11.00"
     },
     {
-        "States": "Indiana",
-        "Minimum_Wage": "7.25",
-        "Latitude": "39.76838",
-        "Longitude": "-86.15804"
+        "County": "Indiana",
+        "Lat": "39.76838",
+        "Long": "-86.15804",
+        "Minimum Wage": "7.25"
     },
     {
-        "States": "Iowa",
-        "Minimum_Wage": "7.25",
-        "Latitude": "41.60054",
-        "Longitude": "-93.60911"
+        "County": "Iowa",
+        "Lat": "41.60054",
+        "Long": "-93.60911",
+        "Minimum Wage": "7.25"
     },
     {
-        "States": "Kansas",
-        "Minimum_Wage": "7.25",
-        "Latitude": "38.97167",
-        "Longitude": "-95.23525"
+        "County": "Kansas",
+        "Lat": "38.97167",
+        "Long": "-95.23525",
+        "Minimum Wage": "7.25"
     },
     {
-        "States": "Kentucky",
-        "Minimum_Wage": "7.25",
-        "Latitude": "38.25424",
-        "Longitude": "-85.75941"
+        "County": "Kentucky",
+        "Lat": "38.25424",
+        "Long": "-85.75941",
+        "Minimum Wage": "7.25"
     },
     {
-        "States": "Louisiana",
-        "Minimum_Wage": "7.25",
-        "Latitude": "30.22409",
-        "Longitude": "-92.01984"
+        "County": "Louisiana",
+        "Lat": "30.22409",
+        "Long": "-92.01984",
+        "Minimum Wage": "7.25"
     },
     {
-        "States": "Maine",
-        "Minimum_Wage": "12.15",
-        "Latitude": "43.65737",
-        "Longitude": "-70.2589"
+        "County": "Maine",
+        "Lat": "43.65737",
+        "Long": "-70.2589",
+        "Minimum Wage": "12.15"
     },
     {
-        "States": "Maryland",
-        "Minimum_Wage": "11.75",
-        "Latitude": "39.29038",
-        "Longitude": "-76.61219"
+        "County": "Maryland",
+        "Lat": "39.29038",
+        "Long": "-76.61219",
+        "Minimum Wage": "11.75"
     },
     {
-        "States": "Massachusetts",
-        "Minimum_Wage": "13.50",
-        "Latitude": "42.35843",
-        "Longitude": "-71.05977"
+        "County": "Massachusetts",
+        "Lat": "42.35843",
+        "Long": "-71.05977",
+        "Minimum Wage": "13.50"
     },
     {
-        "States": "Michigan",
-        "Minimum_Wage": "9.65",
-        "Latitude": "42.33143",
-        "Longitude": "-83.04575"
+        "County": "Michigan",
+        "Lat": "42.33143",
+        "Long": "-83.04575",
+        "Minimum Wage": "9.65"
     },
     {
-        "States": "Minnesota",
-        "Minimum_Wage": "10.08",
-        "Latitude": "44.97997",
-        "Longitude": "-93.26384"
+        "County": "Minnesota",
+        "Lat": "44.97997",
+        "Long": "-93.26384",
+        "Minimum Wage": "10.08"
     },
     {
-        "States": "Mississippi",
-        "Minimum_Wage": "7.25",
-        "Latitude": "32.29876",
-        "Longitude": "-90.18481"
+        "County": "Mississippi",
+        "Lat": "32.29876",
+        "Long": "-90.18481",
+        "Minimum Wage": "7.25"
     },
     {
-        "States": "Missouri",
-        "Minimum_Wage": "10.30",
-        "Latitude": "37.21533 ",
-        "Longitude": "-93.29824"
+        "County": "Missouri",
+        "Lat": "37.21533 ",
+        "Long": "-93.29824",
+        "Minimum Wage": "10.30"
     },
     {
-        "States": "Montana",
-        "Minimum_Wage": "8.75",
-        "Latitude": "45.78329",
-        "Longitude": "-108.50069"
+        "County": "Montana",
+        "Lat": "45.78329",
+        "Long": "-108.50069",
+        "Minimum Wage": "8.75"
     },
     {
-        "States": "Nebraska",
-        "Minimum_Wage": "9.00",
-        "Latitude": "41.25626",
-        "Longitude": "-95.94043"
+        "County": "Nebraska",
+        "Lat": "41.25626",
+        "Long": "-95.94043",
+        "Minimum Wage": "9.00"
     },
     {
-        "States": "Nevada",
-        "Minimum_Wage": "9.75",
-        "Latitude": "36.17497",
-        "Longitude": "-115.13722"
+        "County": "Nevada",
+        "Lat": "36.17497",
+        "Long": "-115.13722",
+        "Minimum Wage": "9.75"
     },
     {
-        "States": "New Hampshire",
-        "Minimum_Wage": "7.25",
-        "Latitude": "43.20814",
-        "Longitude": "-71.53757"
+        "County": "New Hampshire",
+        "Lat": "43.20814",
+        "Long": "-71.53757",
+        "Minimum Wage": "7.25"
     },
     {
-        "States": "New Jersey",
-        "Minimum_Wage": "12.00",
-        "Latitude": "40.21705",
-        "Longitude": "-74.74294"
+        "County": "New Jersey",
+        "Lat": "40.21705",
+        "Long": "-74.74294",
+        "Minimum Wage": "12.00"
     },
     {
-        "States": "New Mexico",
-        "Minimum_Wage": "10.50",
-        "Latitude": "35.08449",
-        "Longitude": "-106.65114"
+        "County": "New Mexico",
+        "Lat": "35.08449",
+        "Long": "-106.65114",
+        "Minimum Wage": "10.50"
     },
     {
-        "States": "New York",
-        "Minimum_Wage": "12.50",
-        "Latitude": "42.65258",
-        "Longitude": "-73.75623"
+        "County": "New York",
+        "Lat": "42.65258",
+        "Long": "-73.75623",
+        "Minimum Wage": "12.50"
     },
     {
-        "States": "North Carolina",
-        "Minimum_Wage": "7.25",
-        "Latitude": "35.22709",
-        "Longitude": "-80.84313"
+        "County": "North Carolina",
+        "Lat": "35.22709",
+        "Long": "-80.84313",
+        "Minimum Wage": "7.25"
     },
     {
-        "States": "North Dakota",
-        "Minimum_Wage": "7.25",
-        "Latitude": "46.80833",
-        "Longitude": "-100.78374"
+        "County": "North Dakota",
+        "Lat": "46.80833",
+        "Long": "-100.78374",
+        "Minimum Wage": "7.25"
     },
     {
-        "States": "Ohio",
-        "Minimum_Wage": "8.80",
-        "Latitude": "39.96118",
-        "Longitude": "-82.99879"
+        "County": "Ohio",
+        "Lat": "39.96118",
+        "Long": "-82.99879",
+        "Minimum Wage": "8.80"
     },
     {
-        "States": "Oklahoma",
-        "Minimum_Wage": "7.25",
-        "Latitude": "35.46756",
-        "Longitude": "-97.51643"
+        "County": "Oklahoma",
+        "Lat": "35.46756",
+        "Long": "-97.51643",
+        "Minimum Wage": "7.25"
     },
     {
-        "States": "Oregon",
-        "Minimum_Wage": "12.00",
-        "Latitude": "44.9429",
-        "Longitude": "-123.0351"
+        "County": "Oregon",
+        "Lat": "44.9429",
+        "Long": "-123.0351",
+        "Minimum Wage": "12.00"
     },
     {
-        "States": "Pennsylvania",
-        "Minimum_Wage": "7.25",
-        "Latitude": "42.12922",
-        "Longitude": "-80.08506"
+        "County": "Pennsylvania",
+        "Lat": "42.12922",
+        "Long": "-80.08506",
+        "Minimum Wage": "7.25"
     },
     {
-        "States": "Rhode Island",
-        "Minimum_Wage": "11.50",
-        "Latitude": "41.82399",
-        "Longitude": "-71.41283"
+        "County": "Rhode Island",
+        "Lat": "41.82399",
+        "Long": "-71.41283",
+        "Minimum Wage": "11.50"
     },
     {
-        "States": "South Carolina",
-        "Minimum_Wage": "7.25",
-        "Latitude": "34.00071",
-        "Longitude": "-81.03481"
+        "County": "South Carolina",
+        "Lat": "34.00071",
+        "Long": "-81.03481",
+        "Minimum Wage": "7.25"
     },
     {
-        "States": "South Dakota",
-        "Minimum_Wage": "9.45",
-        "Latitude": "44.36832",
-        "Longitude": "-100.35097"
+        "County": "South Dakota",
+        "Lat": "44.36832",
+        "Long": "-100.35097",
+        "Minimum Wage": "9.45"
     },
     {
-        "States": "Tennessee",
-        "Minimum_Wage": "7.25",
-        "Latitude": "36.16589",
-        "Longitude": "-86.78444"
+        "County": "Tennessee",
+        "Lat": "36.16589",
+        "Long": "-86.78444",
+        "Minimum Wage": "7.25"
     },
     {
-        "States": "Texas",
-        "Minimum_Wage": "7.25",
-        "Latitude": "30.26715",
-        "Longitude": "-97.74306"
+        "County": "Texas",
+        "Lat": "30.26715",
+        "Long": "-97.74306",
+        "Minimum Wage": "7.25"
     },
     {
-        "States": "Utah",
-        "Minimum_Wage": "7.25",
-        "Latitude": "40.52189",
-        "Longitude": "-111.9391"
+        "County": "Utah",
+        "Lat": "40.52189",
+        "Long": "-111.9391",
+        "Minimum Wage": "7.25"
     },
     {
-        "States": "Vermont",
-        "Minimum_Wage": "11.75",
-        "Latitude": "44.47588",
-        "Longitude": "-73.21207"
+        "County": "Vermont",
+        "Lat": "44.47588",
+        "Long": "-73.21207",
+        "Minimum Wage": "11.75"
     },
     {
-        "States": "Virginia",
-        "Minimum_Wage": "7.25",
-        "Latitude": "37.55376",
-        "Longitude": "-77.46026"
+        "County": "Virginia",
+        "Lat": "37.55376",
+        "Long": "-77.46026",
+        "Minimum Wage": "7.25"
     },
     {
-        "States": "Washington",
-        "Minimum_Wage": "13.69",
-        "Latitude": "47.30732 ",
-        "Longitude": "-122.22845"
+        "County": "Washington",
+        "Lat": "47.30732 ",
+        "Long": "-122.22845",
+        "Minimum Wage": "13.69"
     },
     {
-        "States": "West Virginia",
-        "Minimum_Wage": "8.75",
-        "Latitude": "38.41925",
-        "Longitude": "-82.44515"
+        "County": "West Virginia",
+        "Lat": "38.41925",
+        "Long": "-82.44515",
+        "Minimum Wage": "8.75"
     },
     {
-        "States": "Wisconsin",
-        "Minimum_Wage": "7.25",
-        "Latitude": "43.07305",
-        "Longitude": "-89.40123"
+        "County": "Wisconsin",
+        "Lat": "43.07305",
+        "Long": "-89.40123",
+        "Minimum Wage": "7.25"
     },
     {
-        "States": "Wyoming",
-        "Minimum_Wage": "7.25",
-        "Latitude": "41.13998",
-        "Longitude": "-104.82025"
+        "County": "Wyoming",
+        "Lat": "41.13998",
+        "Long": "-104.82025",
+        "Minimum Wage": "7.25"
     },
     {
-        "States": "Puerto Rico",
-        "Minimum_Wage": "6.55",
-        "Latitude": "18.220833",
-        "Longitude": "-66.590149"
+        "County": "Puerto Rico",
+        "Lat": "18.220833",
+        "Long": "-66.590149",
+        "Minimum Wage": "6.55"
     },
     {
-        "States": "District of Columbia",
-        "Minimum_Wage": "15.00",
-        "Latitude": "38.89511",
-        "Longitude": "-77.03637"
+        "County": "District of Columbia",
+        "Lat": "38.89511",
+        "Long": "-77.03637",
+        "Minimum Wage": "15.00"
     },
     {
-        "States": "Federal",
-        "Minimum_Wage": "7.25",
-        "Latitude": "37.09024",
-        "Longitude": "-95.712891"
+        "County": "Federal",
+        "Lat": "37.09024",
+        "Long": "-95.712891",
+        "Minimum Wage": "7.25"
     }
 ]
